@@ -27,5 +27,7 @@ To finish:
 1. Blend together all the ingredients, preferably using an immersion blender
 1. Let sauce cool slightly before the next step. Add the cut up butter, cream, and garam masala and stir until well incorporated.
 
-Calories 309 | Fat 22g | Protein 23g | Carbs 6g
-https://www.myfitnesspal.com/recipe/view/54303338098221
+Calories 309 | Fat 22g | Protein 23g | Carbs 6g  
+[MyFitnessPal Recipe](https://www.myfitnesspal.com/recipe/view/54303338098221)
+
+![](./images/InstantPotButterChicken.jpg)
