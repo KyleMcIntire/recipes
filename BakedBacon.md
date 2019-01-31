@@ -1,4 +1,4 @@
-# Backed Bacon
+# Baked Bacon
 
 #### Ingredients
 
