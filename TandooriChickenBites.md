@@ -31,11 +31,11 @@
 1. Place chicken on baking sheet, spaced out so they do not touch. 
 1. Bake for 15 minutes. Turn chicken pieces over and bake for another 15 minutes. 
 
-## Nutrition
+## Nutrition (Check weight of chicken next time you make this)
 
-- Servings:
-- Calories: 
-- Carbohydrates: 
-- Protein: 
-- Fat: 
-- Fiber: 
+- Servings: 6
+- Calories: 266
+- Carbohydrates: 35g | 32g net
+- Protein: 38g
+- Fat: 3g
+- Fiber: 3g
