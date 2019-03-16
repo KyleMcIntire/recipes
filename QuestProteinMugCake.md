@@ -13,11 +13,12 @@
 1. Mix incredients in microwave-safe mug
 2. Microwave 30-45 seconds depending on desired consistency
 
-### Nutrition
+## Nutrition
 
 Calories: 148 cal
 Carbohydrates: 7g | 2g Net
 Protein: 4.25g
 Fat: 4g
 Fiber: 5g
+
 [MyFitnessPal Recipe](https://www.myfitnesspal.com/recipe/view/133616315018813)
