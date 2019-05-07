@@ -22,13 +22,14 @@
 4. Mix wet and dry ingredients until no dry clumps remain.
 5. Press batter into a greased pan
 6. Bake for 8-10 minutes (NO LONGER) then let cool for 10-15 minutes. The bars will keep setting as they cool, so don't worry if they look undercooked at first.
+7. Makes 12 bars.
 
 ## Nutrition
 
-Calories: 
-Carbohydrates: 
-Protein: 
-Fat: 
-Fiber: 
+Calories: 193
+Carbohydrates: 26g | 22g Net
+Protein: 9g
+Fat: 7g
+Fiber: 4g
 
-[MyFitnessPal Recipe]()
+[MyFitnessPal Recipe](https://www.myfitnesspal.com/recipe/view/62970398518461)
